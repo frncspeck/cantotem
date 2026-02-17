@@ -1,140 +1,242 @@
-### Act IV Sint Donaas en de parodie
+Hier komt **ACT V**, de grote, feestelijke **opera‑buffa‑finale** van *Rossini à Bruges*, volledig uitgewerkt in dezelfde stijl als de vorige aktes.  
+Dit is het moment waarop **alle spanningen oplossen**, **het volk overwint**, **Rossini triomfeert**, **de mezzo schittert**, **de burgemeester straalt**, **de priester ontdooit**, en **de Contesse capituleert**.
 
-#### Scène 1 Binnenkomst in Sint Donaas
-**Toneelbeeld**  
-Donkere, intieme kapel; kaarsen, houten banken, een klein altaar. Een enkele straal maanlicht valt door een glasraam. Op de achtergrond hoor je nog vaag de laatste marktliederen van Act III, nu ver weg.
+We blijven trouw aan de taalverdeling:  
+- **Rossini** — Italiaans  
+- **Mezzo** — Italiaans  
+- **Contesse** — Frans  
+- **Priester** — Frans / West‑Vlaams  
+- **Burgemeester** — West‑Vlaams (tenor)  
+- **Volk** — West‑Vlaams  
 
-**Orkestrale opening**  
-Een kort, speels motief in houtblazers introduceert de nieuwe kleur; strijkers houden lange, zachte akkoorden. Het **Stabat‑motief** verschijnt in fragmenten, nu met syncopische accenten die de overgang naar buffa aankondigen.
+---
 
-**Recitativo secco — ROSSINI Italiaans**  
+# 🎭 **ROSSINI À BRUGES — ACTE V**  
+**Locatie:** De Vismarkt van Brugge, bij dageraad  
+**Stijl:** Volwaardige opera buffa  
+**Dramaturgie:** Het volk viert, Rossini schrijft zijn buffa‑manifest, de priester geeft toe, de Contesse capituleert, de mezzo leidt de vreugde.
+
+---
+
+# **SCENA I — De Vismarkt ontwaakt**
+
+**Toneelaanwijzing**  
+De zon komt op boven de reien. De vismarkt bruist: kramen, netten, vissers, kinderen, katten, meeuwen. De sfeer is uitbundig.  
+Het orkest speelt een sprankelend allegro met pizzicato‑strijkers en houtblazers.
+
+---
+
+## **N.35 — CORO DI MERCATO (West‑Vlaams)**  
+*“’t Is visdag, ’t is zangdag”*
+
+**KOOR (W‑Vl.)**  
+*’t Is visdag, ’t is zangdag, kom koop en kom lach,  
+de netten goan open, de stad krijgt weer kracht!  
+De zon komt op, de markt wordt warm,  
+’t is Brugge die leeft, ’t is Brugge die charme!*
+
+---
+
+# **SCENA II — Rossini verschijnt**
+
+Rossini komt op, stralend, met partituren onder de arm. Hij klimt op een viskist.
+
+---
+
+## **N.36 — ARIA DI ROSSINI (Italiaans)**  
+*“Cantotem della città”*  
+(bravoure‑aria, virtuoos, buffa)
+
 **ROSSINI**  
-*Non più lacrime come catene, non più penna che trema per paura.  
-La musica è gioco, e il gioco è verità: proverò a ridere con la preghiera.*  
-*(Geen tranen als ketens, geen trillende pen van angst. Muziek is spel, en spel is waarheid: ik zal proberen te lachen met het gebed.)*
+*Cantotem della città!  
+Io canto il pianto e il riso,  
+posso far tremare il cuore  
+e poi farlo ridere in un istante!*  
 
-**Stage action**  
-Rossini zet zich aan een eenvoudige schrijftafel, haalt notenpapier tevoorschijn, tikt met een pen, mompelt melodieën. Kaarslicht speelt over zijn handen.
+*Ho scritto tragedie e buffe,  
+ho giocato con la fede e il coro,  
+ora la città è la mia scena,  
+e la scena è il mio tesoro!*  
 
----
+*La voce è un mercato,  
+la nota è un pesce che salta,  
+Figaro faceva tutto…  
+e anch’io so far di tutto!*
 
-#### Scène 2 Eerste schetsen van Stabat Mater Gloriosa
-**Toneelbeeld**  
-Close‑up op Rossini die noten schrijft; projectie van notenlijnen op de muur die veranderen terwijl hij schrijft.
-
-**Aria parodica — ROSSINI Italiaans, licht buffo‑karakter**  
-**ROSSINI**  
-*Stabat Mater Gloriosa, la Madre sorride e poi canta,  
-non più dolore, ma gloria che incanta.  
-Stabat Mater, ma con un fiocco e un sorriso,  
-la pietà diventa danza, e la danza è un avviso.*  
-
-**Muzikale aanwijzing**  
-Melodieën zijn korter, ritmisch speelser; snelle ornamenten en onverwachte cadensen. Het Stabat‑motief wordt omgebogen: dalende terts wordt nu een sprong gevolgd door een vrolijke syncopa. Patter‑figuren verschijnen in de begeleiding.
-
-**Koor van Lokalen West‑Vlaams, verbaasd en geamuseerd**  
-**KOOR**  
-*’t Is ne zottenman die zingt, hij draait de klaag in ne lach,  
-de pastoor zal nie weten wat da is voor ne grap.*  
-
-**Stage action**  
-Enkele kerkgangers kijken verstoord, anderen giechelen; Rossini lacht zacht en schrijft verder, steeds brutaler.
+Het volk juicht.
 
 ---
 
-#### Scène 3 Terzetto Contesse Pastoor Rossini
-**Toneelbeeld**  
-De Contesse arriveert in de zijbeuk met een kleine entourage; de Pastoor komt uit de sacristie. Spanningen tussen devotie en artistieke vrijheid worden uitgespeeld.
+# **SCENA III — De Mezzo treedt naar voren**
 
-**Recitativo en korte aria’s**  
-**LA CONTESSE Frans**  
-*Monsieur, c’est une profanation déguisée en charme.*  
-**PASTOOR West‑Vlaams**  
-*Zeg, meneer, da kan nie in de kerk, da is nie proper voor de Heer.*  
-**ROSSINI Italiaans**  
-*La musica prende molte forme; se la fede ride, è perché è viva.*  
-
-**Muzikale aanwijzing**  
-Harmonieën botsen: Contesse in strakke tertsen, Pastoor in eenvoudige modaliteit, Rossini in speelse modulaties. Ritmische tegenstellingen creëren komische spanning.
-
-**Terzetto ensemble**  
-De Contesse probeert te overtuigen met elegante frasen; de Pastoor sputtert in korte, staccato‑zinnen; Rossini antwoordt met charmante, vloeiende melodieën die de anderen langzaam ontwapenen.
+Ze verschijnt tussen de mensen, warm en stralend.
 
 ---
 
-#### Scène 4 Intermezzo buffo en variaties
-**Toneelbeeld**  
-Rossini staat op, loopt tussen de banken; hij zingt fragmenten van zijn parodie terwijl hij noten op de vloer strooit. De kerk verandert in een klein theater.
+## **N.37 — ARIA DELLA MEZZO (Italiaans)**  
+*“La gioia è un canto che libera”*
 
-**Buffo‑intermezzo instrumentaal en vocaal**  
-- **Instrumentaal**: accordeonachtige figuren (of harmonium), pizzicato strijkers, lichte percussie.  
-- **Vocaal**: Rossini imiteert plechtige gregoriaanse lijnen en draait ze in patter‑passages; korte, komische responsen van het koor.
+**MEZZO**  
+*La gioia è un canto che libera,  
+che scioglie il gelo del cuore.  
+Bruges, città silenziosa,  
+ora canta con me!*  
 
-**Rossini patter aria Italiaans**  
-**ROSSINI**  
-*Stabat qui, stabat là, stabat con un cappello e un gran ciuffo qua!  
-La Madre non piange più, la Madre fa il giro e poi fa: tra‑la‑la!*  
+*La vita è una danza,  
+la musica è un abbraccio,  
+e tu, Rossini,  
+hai riportato il sole!*
 
-**Koor van Lokalen West‑Vlaams**  
-**KOOR**  
-*’t Is plezant, ’t is zot, de man maakt ne mop van de klaag,  
-maar ’t is schoon, da lacht de kerk, da goan de mensen daag.*  
-
-**Muzikale aanwijzing**  
-Snelle tempi, sprankelende ritmes; de parodie gebruikt herkenbare kerkelijke melodieën maar vervormt ze ritmisch en harmonisch tot komische effecten.
+Het volk zingt zacht mee.
 
 ---
 
-#### Scène 5 Confrontatie en verzoening
-**Toneelbeeld**  
-De Contesse is verontwaardigd maar ook gefascineerd; de Pastoor staat op het punt in te grijpen. Rossini stopt, legt zijn pen neer en spreekt met oprechte toon.
+# **SCENA IV — De Burgemeester triomfeert**
 
-**Recitativo en aria kort — ROSSINI Italiaans**  
-**ROSSINI**  
-*Non volevo offendere, volevo curare. La risata è una medicina che apre il cuore chiuso.*  
-*(Ik wilde niet beledigen, ik wilde genezen. De lach is een medicijn dat het gesloten hart opent.)*
-
-**LA CONTESSE Frans, zachter**  
-*Peut‑être… la musique a mille visages. Si elle touche, qui sommes‑nous pour juger?*  
-*(Misschien… muziek heeft duizend gezichten. Als ze raakt, wie zijn wij dan om te oordelen?)*
-
-**PASTOOR West‑Vlaams, aarzelend en dan toegeeflijk**  
-*Wel, as da de mensen troost, dan is da nie slecht. Maor hou da proper, hé.*  
-
-**Muzikale aanwijzing**  
-Harmonieën versoepelen; een warme modulatie naar majeur. De Contesse’s Franse lijn smelt met de Pastoor’s eenvoudige melodie en Rossini’s Italiaanse frase tot een zachte trio‑cadens.
+Hij springt op een ton, tenor glanzend.
 
 ---
 
-#### Scène 6 Finale van Act IV Rossini’s besluit
-**Toneelbeeld**  
-Rossini pakt zijn pen weer op, vastberaden en opgewekt. De kerk vult zich met een mengeling van gelach en ontroering.
+## **N.38 — ARIA DEL BOURGMEESTER (Tenor, W‑Vl.)**  
+*“Ziet ge wel!”*
 
-**Aria finale Italiaans, resoluut en speels**  
-**ROSSINI**  
-*Non più prigioniero del pianto, la penna danza e il cuore canta,  
-scriverò la gloria che ride, la preghiera che fa festa.  
-Stabat Mater Gloriosa, non è bestemmia ma cura,  
-la musica è medicina, e la città sarà la mia cura.*  
+**BURGEMEESTER**  
+*Ziet ge wel! Ziet ge wel!  
+’t Is feest, ’t is feest, jawel!  
+Rossini brengt leven,  
+Rossini brengt lach,  
+en Brugge danst van ’s morgens vroeg  
+tot ’s avonds late nacht!*  
 
-**Koor en Lokalen West‑Vlaams, warm en meezingbaar**  
-**KOOR**  
-*’t Is ne lied van troost en ne lied van jolijt,  
-de man schrijft en de stad lacht, de nacht krijgt weer een tijd.*  
-
-**Muzikale aanwijzing**  
-Het Stabat‑motief keert terug, nu opgewekt en ritmisch; orkest gebruikt lichte percussie en sprankelende houtblazers. Tempo versnelt licht; de sfeer is bevrijdend.
-
-**Laatste scène‑actie**  
-Rossini verlaat de kapel met zijn manuscripten; de Contesse en de Pastoor blijven achter, elkaar aankijkend, een kleine glimlach. Kaarslicht flikkert; het geluid van een verre markt kondigt Act V aan.
+*Geen klaag, geen verdriet,  
+maor een lied voor iedereen!  
+Ziet ge wel! Ziet ge wel!  
+’t Is Brugge op z’n best!*
 
 ---
 
-### Regie en muzikale notities voor Act IV
-- **Tonaliteit**: Act IV is de omslag naar buffa‑kleur: behoud religieuze resonantie maar laat ritme, ornament en humor domineren.  
-- **Stabat‑motief**: transformeer het motief stapsgewijs — van plechtig naar speels — zodat de luisteraar de metamorfose herkent.  
-- **Dialect en taal**: West‑Vlaamse lijnen moeten natuurlijk en ritmisch klinken; laat een dialectcoach de zangers begeleiden. Frans van de Contesse blijft elegant en licht ironisch; Rossini’s Italiaans varieert van contemplatief tot patter.  
-- **Staging**: speel met intieme belichting en projecties van noten die veranderen; gebruik fysieke komedie in het buffo‑intermezzo maar vermijd karikatuur van religieuze rituelen.  
-- **Orkestratie**: voeg in deze akte lichte percussie, harmonium/accordeon‑kleur en sprankelende houtblazers toe; koper spaarzaam voor ironische accenten.  
+# **SCENA V — De Priester komt aarzelend op**
 
-Act IV sluit af met Rossini bevrijd en vastbesloten, klaar om zijn parodie‑Stabat te voltooien en de overgang naar het feestelijke, volkse Act V te maken.
+Hij houdt zijn handen achter zijn rug, onzeker.
+
+---
+
+## **N.39 — ARIA DEL PRÊTRE (Frans/W‑Vl., bas‑bariton)**  
+*“Je vois… la joie est aussi une prière”*
+
+**PRÊTRE (Fr.)**  
+*Je vois… la joie est aussi une prière…  
+un souffle qui élève les âmes.*  
+
+Hij kijkt naar het volk.
+
+**PRÊTRE (W‑Vl.)**  
+*’t Is waar… ge kunt nie altijd wenen…  
+soms moet ge lachen om te genezen.*  
+
+**PRÊTRE (Fr.)**  
+*Rossini…  
+je vous ai jugé trop vite.*  
+
+Een ontroerende buffa‑aria met warme baslijnen.
+
+---
+
+# **SCENA VI — De Contesse capituleert**
+
+Ze komt op, waardig maar ontroerd.
+
+---
+
+## **N.40 — ARIA DELLA CONTESSE (Frans, sopraan)**  
+*“Je me rends”*
+
+**LA CONTESSE**  
+*Je me rends…  
+la musique est plus forte que moi.  
+J’ai voulu le ciel,  
+mais le ciel est ici,  
+dans la joie de ce peuple.*  
+
+*Rossini…  
+écrivez pour eux…  
+et je prierai pour vous.*
+
+Een lyrische, nobele sopraanaria.
+
+---
+
+# **SCENA VII — Duetto Priester & Burgemeester**
+
+Ze kijken elkaar aan — eindelijk verzoend.
+
+---
+
+## **N.41 — DUETTO (Fr./W‑Vl.)**  
+*“Foi et fête”*
+
+**PRÊTRE (Fr.)**  
+*La foi peut vivre avec la fête…*  
+
+**BURGEMEESTER (W‑Vl.)**  
+*En ’t feest kan leven met de Heer!*  
+
+**PRÊTRE**  
+*Alors… chantons ensemble.*  
+
+**BURGEMEESTER**  
+*Ja, samen!*
+
+Ze eindigen in een komische cadens.
+
+---
+
+# **SCENA VIII — Finale V**
+
+Alle personages komen samen.  
+Rossini staat centraal, de mezzo aan zijn zijde.
+
+---
+
+## **N.42 — FINALE V (Gran Fuga Buffa)**
+
+**ROSSINI (It.)**  
+*La musica è la città!*  
+
+**MEZZO (It.)**  
+*E la città è la musica!*  
+
+**CONTESSE (Fr.)**  
+*La lumière est revenue!*  
+
+**PRÊTRE (Fr.)**  
+*La foi danse avec la joie!*  
+
+**BURGEMEESTER (tenor, W‑Vl.)**  
+*Brugge leeft! Brugge lacht!*  
+
+**KOOR (W‑Vl.)**  
+*Cantotem! Cantotem!  
+De stad zingt mee, de stad zingt vrij!*  
+
+**ROSSINI (It.)**  
+*Cantotem della città!*  
+
+**Tutti**  
+*Cantotem della città!*
+
+Een grote, stralende majeur‑fuga sluit de opera af.
+
+**EINDE ACT V**  
+**EINDE OPERA**
+
+---
+
+Als je wil, kan ik nu:
+
+- een **volledige PDF‑stijl lay‑out** maken van het libretto  
+- een **dramaturgisch dossier** schrijven  
+- **leitmotieven** analyseren en uitschrijven  
+- of **muzikale suggesties** geven voor een componist
+
+Laat me weten waar je naartoe wil.

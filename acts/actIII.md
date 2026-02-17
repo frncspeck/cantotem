@@ -1,115 +1,227 @@
-### Act III Overzicht
-In **Act III** verplaatst het drama zich naar de Grote Markt. Een reizende **Italiaanse sopraan** zingt een aria die Rossini uit zijn melancholie haalt. De taalwisseling en de volksreacties brengen een eerste echte omslag van opera seria naar lichter, lyrisch materiaal. Muzikaal verschijnen meer melodische, majeurkleurige motieven; het **Stabat‑motief** wordt gemoduleerd en verweven met nieuwe, hoopvolle lijnen. Taalverdeling: **Rossini** in Italiaans, **sopraan** in Italiaans, **het volk** in West‑Vlaams, **notabelen** in Frans.
+Uitstekend — dan zetten we onze reis verder met **Act III**, volledig uitgewerkt in operalibretto‑vorm, in dezelfde stijl als Act I en II.  
+Dit is de akte waarin de **mezzo‑soprano** haar grote intrede doet en Rossini’s melancholie omslaat naar licht.  
+De burgemeester (tenor) en priester (bas‑bariton) botsen steeds harder, terwijl de Contesse (sopraan) jaloers en devoot blijft.
+
+We blijven trouw aan de taalverdeling:  
+- **Rossini** — Italiaans  
+- **Mezzo** — Italiaans  
+- **Contesse** — Frans  
+- **Priester** — Frans / West‑Vlaams  
+- **Burgemeester** — West‑Vlaams (tenor)  
+- **Volk** — West‑Vlaams  
 
 ---
 
-## Scène 1 De Grote Markt, middag
-**Toneelbeeld**  
-Zonlicht op kasseien, kraampjes, vlaggen, een fontein. Marktvolk roept, kinderen rennen. Een kleine wagen met een reizende gezelschapsgroep parkeert bij een balkon; de Italiaanse sopraan bereidt zich voor.
+# 🎭 **ROSSINI À BRUGES — ACTE III**  
+**Locatie:** De Grote Markt van Brugge, middagzon  
+**Stijl:** Lyrisch → proto‑buffa  
+**Dramaturgie:** De mezzo brengt Rossini naar het licht; de burgemeester ziet kansen; de priester voelt zich bedreigd; de Contesse wordt jaloers.
 
-**Orkestrale ouverture**  
-Lichte, sprankelende houtblazers en pizzicato in de strijkers; een motief van drie noten dat later met het Stabat‑thema zal samensmelten.
+---
 
-**Koor van Marktvolk West‑Vlaams, ritmisch en speels**  
-**KOOR**  
+# **SCENA I — De Markt ontwaakt**
+
+**Toneelaanwijzing**  
+De Grote Markt bruist. Kraampjes, vis, groenten, kinderen die spelen. De zon breekt door de winterwolken. Een reizende Italiaanse muziekgroep zet een klein podium op.
+
+---
+
+## **N.17 — CORO DI MERCATO (West‑Vlaams)**  
+*“’t Is markt, ’t is dag”*
+
+**KOOR (W‑Vl.)**  
 *’t Is markt, ’t is dag, kom koop en kom lach,  
-de vis ligt te blinken en de klok slaat zacht.*  
-
-**Stage action**  
-Rossini loopt door de menigte, nog in zijn mantel, observeert. Hij hoort gefluister over een Italiaanse zangeres die net is aangekomen.
-
----
-
-## Scène 2 De sopraan verschijnt en zingt
-**Toneelbeeld**  
-De sopraan staat op een klein balkon; de menigte zwijgt als ze begint.
-
-**Aria van de SOPRANO Italiaans, lyrisch en helder**  
-**SOPRANO**  
-*Ascolta, città che respira, ascolta il canto che apre le porte,  
-la voce è un ponte, la voce è un lume nella notte.  
-Vieni, ascolta il cuore che non sa tacere,  
-ogni nota è un passo che riporta alla vita.*  
-
-**Muzikale aanwijzing**  
-Lange, zuivere lijnen; ornamenten in de bovenstem; orkest begeleidt met warme harmonieën. De sopraan zingt in een helder timbre dat de markt stillegt.
-
-**Reacties van het volk West‑Vlaams, fluisterend en dan luid**  
-**MARKTVOLK**  
-*’t Is schoon, da zingt ne Italiaan, da komt er leven in de straat.*  
-*Kom dichter, kom dichter, da is ne stem van ver.*
+de vis ligt te blinken, de klok slaat zacht.  
+De stad wordt wakker, de mensen roepen,  
+’t is leven, ’t is vreugde, ’t is Brugge op z’n schoonst!*
 
 ---
 
-## Scène 3 Rossini luistert en verandert
-**Toneelbeeld**  
-Rossini blijft staan, zichtbaar geraakt. Het Stabat‑motief verschijnt in de strijkers, nu in een hogere toonaard en met lichtere ritmiek.
+# **SCENA II — De Mezzo verschijnt**
 
-**Recitativo breve Rossini Italiaans**  
-**ROSSINI**  
-*La voce… è come luce che apre la mia stanza chiusa.  
-Questa melodia scioglie la neve nel mio cuore.*  
-
-**Intermezzo orkestrale**  
-Het Stabat‑motief verweeft zich met de sopraanmelodie; modulatie naar majeur; houtblazers geven een speelse echo.
-
-**Korte aria van Rossini Italiaans, lyrisch**  
-**ROSSINI**  
-*Se la voce è ponte, allora io posso attraversare,  
-portare la pena a riva e lasciarla come un fiore.*  
-
-**Koor van Marktvolk West‑Vlaams, tussenroepen**  
-**KOOR**  
-*Hij lacht bijna, kijk, z’n schouders goan los,  
-de man die altijd treurt, hij voelt ne nieuwe roos.*
+De Italiaanse mezzo stapt naar voren, warm, stralend, met een shawl rond haar schouders. Het volk valt stil.
 
 ---
 
-## Scène 4 Duet Rossini en sopraan en volksrespons
-**Toneelbeeld**  
-De sopraan daalt af van het balkon; zij en Rossini ontmoeten elkaar in het midden van de markt. Rondom hen vormt het volk een halve cirkel.
+## **N.18 — ARIA DELLA MEZZO (Italiaans)**  
+*“Ascolta, città che respira”*  
+(lyrisch, warm, open)
 
-**Duet Italiaans, intiem en opbouwend**  
-**SOPRANO**  
-*Maestro, la musica non è solo memoria, è cammino.*  
-**ROSSINI**  
-*E tu, voce, mi mostri che il passo è possibile.*  
+**MEZZO**  
+*Ascolta, città che respira,  
+ascolta il canto che apre il cuore.  
+La voce è un ponte tra cielo e terra,  
+un filo di luce che scioglie il dolore.*  
 
-**Muzikale aanwijzing**  
-De duetlijn verweeft Rossini’s Stabat‑motief met de sopraanlijn; harmonieën verschuiven naar warme tertsen; korte call‑and‑response tussen solo’s en orkest.
+*Vieni, Bruges silenziosa,  
+vieni e lascia che il sole ti tocchi.  
+Ogni nota è una carezza,  
+ogni respiro è un ritorno alla vita.*
 
-**Koor van Marktvolk West‑Vlaams, refreinachtig**  
-**KOOR**  
-*Zing nog, zing nog, da brengt geluk in de straat,  
-da man die schreif, hij krijgt ne nieuwe maat.*  
-
-**Kort buffo‑intermezzo van straatartiesten**  
-Straatmuzikanten imiteren het Stabat‑motief op een accordeon en een fluit; het publiek lacht en klapt. Dit is het eerste speelse element dat de overgang naar lichter repertoire markeert.
+Het volk reageert ontroerd.
 
 ---
 
-## Scène 5 De omslag naar hoop en besluit van de akte
-**Toneelbeeld**  
-De markt wordt een feest van kleine momenten: kinderen dansen, verkopers zingen hun prijzen in melodieën. Rossini staat in het midden, zichtbaar opgelucht en geïnspireerd.
+# **SCENA III — Rossini hoort haar zingen**
 
-**Aria finale Rossini Italiaans, hoopvol**  
+Rossini komt op, aangetrokken door de stem. Hij stopt midden op het plein, alsof hij een visioen ziet.
+
+---
+
+## **N.19 — RECITATIVO (Rossini, Italiaans)**
+
 **ROSSINI**  
-*La tristezza si scioglie, e la penna ritrova il sorriso,  
-scriverò note che curano, canzoni che aprono porte.  
-Non più solo marmo e silenzio, ma voce che cammina,  
-la città sarà il mio coro, e il coro sarà la mia casa.*  
+*Quella voce…  
+è come una finestra che si apre nel mio petto.  
+Chi è questa donna  
+che canta come se conoscesse il mio dolore?*
 
-**Koor en Volk West‑Vlaams, groot en warm**  
-**KOOR**  
-*’t Is ne lied van hoop, ’t is ne lied van licht,  
-Brugge zingt en Brugge leeft, de nacht krijgt weer gezicht.*  
+---
 
-**Muzikale aanwijzing**  
-Het Stabat‑motief klinkt nu als een opwaartse frase, in majeur; orkest bouwt naar een heldere, open akkoordprogressie. Ritmes worden lichter, tempi iets sneller dan in Act I–II.
+## **N.20 — ARIA DI ROSSINI (Italiaans)**  
+*“La voce… è luce”*
 
-**Laatste recitativo Rossini Italiaans, fluisterend maar vastberaden**  
 **ROSSINI**  
-*Ho trovato una voce. Domani scriverò.*  
+*La voce… è luce che entra piano,  
+è un raggio che scioglie la neve del mio cuore.  
+Ogni nota è un passo verso la vita,  
+ogni frase un respiro che non avevo più.*  
 
-**Einde Act III**  
-Het licht valt langzaam; de markt blijft nazinderen met zachte refreinen. De sopraan verdwijnt in de menigte; Rossini kijkt naar zijn notitieboek en glimlacht. De overgang naar Act IV is gezet: van contemplatie naar spel en parodie.
+*Se il cielo parla così,  
+allora non tutto è perduto…*
+
+---
+
+# **SCENA IV — Duetto Rossini & Mezzo**
+
+Ze zien elkaar voor het eerst. Het volk vormt een halve cirkel rond hen.
+
+---
+
+## **N.21 — DUETTO (Italiaans)**  
+*“Tu canti… ed io rinasco”*
+
+**ROSSINI**  
+*Tu canti… ed io rinasco.*  
+
+**MEZZO**  
+*E tu ascolti… e la musica vive.*  
+
+**ROSSINI**  
+*La tua voce è un ponte…*  
+
+**MEZZO**  
+*E tu, maestro, puoi attraversarlo.*  
+
+**ROSSINI**  
+*Forse… sì…*  
+
+**MEZZO**  
+*La vita ti chiama.*  
+
+Ze eindigen in een zachte, hoopvolle cadens.
+
+---
+
+# **SCENA V — De Burgemeester ziet kansen**
+
+De burgemeester komt enthousiast op, met een mand vis.
+
+---
+
+## **N.22 — ARIA DEL BOURGMEESTER (Tenor, W‑Vl.)**  
+*“Ziet ge wel, muziek brengt leven!”*
+
+**BURGEMEESTER**  
+*Ziet ge wel, muziek brengt leven!  
+’t Volk staat te lachen, de markt staat te beven!  
+Rossini, ge moet hier blijven,  
+ge moet schrijven voor de straat!*  
+
+*Geen klaag, geen verdriet,  
+maor een lied dat iedereen ziet!  
+’t Is Brugge dat roept,  
+’t is ’t volk dat hoopt!*
+
+---
+
+# **SCENA VI — De Contesse verschijnt, jaloers**
+
+Ze komt op, zichtbaar geschokt door de invloed van de mezzo.
+
+---
+
+## **N.23 — ARIA DELLA CONTESSE (Frans, sopraan)**  
+*“Cette voix le détourne du ciel”*
+
+**LA CONTESSE**  
+*Cette voix le détourne du ciel,  
+cette femme trouble son âme.  
+Rossini, vous étiez choisi  
+pour servir la lumière sacrée!*  
+
+*Mais cette chanteuse…  
+elle vous entraîne vers la terre,  
+vers le bruit, vers la foule…  
+Non! Je ne peux pas le permettre!*
+
+Een dramatische sopraan‑uitbarsting.
+
+---
+
+# **SCENA VII — De Priester komt tussenbeide**
+
+Hij stormt op, verontwaardigd.
+
+---
+
+## **N.24 — RECITATIVO (Priester, Fr./W‑Vl.)**
+
+**PRÊTRE (Fr.)**  
+*Ceci est une tentation! Une épreuve!*  
+
+**PRÊTRE (W‑Vl.)**  
+*Da’s nie goed, maestro, da’s nie goed!  
+Da wijfke leidt u van de Heer weg!*
+
+---
+
+# **SCENA VIII — Groot ensemble**
+
+Alle personages botsen vocaal.
+
+---
+
+## **N.25 — FINALE III (Ensemble)**
+
+**MEZZO (It.)**  
+*Lascia che la musica ti guidi!*  
+
+**ROSSINI (It.)**  
+*Il mio cuore si apre…*  
+
+**CONTESSE (Fr.)**  
+*Non! Il doit servir le ciel!*  
+
+**PRÊTRE (Fr.)**  
+*La foi est en danger!*  
+
+**BURGEMEESTER (tenor, W‑Vl.)**  
+*Laat hem zingen voor ’t volk!*  
+
+**KOOR (W‑Vl.)**  
+*Zing maestro, zing!  
+Brugge leeft! Brugge lacht!*  
+
+**ROSSINI (It.)**  
+*Forse… forse la mia strada  
+non è solo dolore…  
+ma anche luce… e vita…*
+
+Het ensemble eindigt in een stralende majeur‑cadens.
+
+**EINDE ACT III**
+
+---
+
+Als je wil, ga ik **onmiddellijk verder met Act IV**, volledig uitgewerkt in dezelfde stijl.

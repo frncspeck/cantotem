@@ -1,136 +1,235 @@
-### Act II — Onze Lieve Vrouwkerk en de Madonna
+Heerlijk — dan gaan we verder met **Act II**, volledig uitgewerkt in operalibretto‑vorm, in dezelfde stijl als Act I:  
+- **volledige scènes**,  
+- **recitatieven**,  
+- **aria’s**,  
+- **duetten**,  
+- **koornummers**,  
+- **toneelaanwijzingen**,  
+- **drie talen**,  
+- **Rossiniaanse structuur**.
 
-**Korte samenvatting**  
-Rossini zoekt stilte in de Onze Lieve Vrouwkerk. Het marmeren Madonna‑beeld en de sacrale ruimte wekken in hem een muzikaal motief op — het **Stabat‑motief** — dat hem inspireert tot een Stabat Mater. De akte blijft in een plechtige, seria‑stijl: lange lijnen, contrapunt, religieuze grandeur. Taalverdeling: **Rossini** in *Italiaans*, **notabelen** in *Frans*, **het volk/koor** in *West‑Vlaams*.
+Act II is een **seria sacra**‑akte: plechtig, religieus, maar met onderliggende spanningen tussen de priester, de burgemeester en de Contesse. Rossini wordt naar het sacrale getrokken, maar nog niet volledig overtuigd.
 
 ---
 
-#### Scène 1 — Binnenkomst in de kerk, kaarslicht
-**Toneelbeeld**: Hoog schip, kaarsen, marmer, een groot Madonna‑beeld (projectie of sculptuur) op een verhoging. Zachte echo, kerkklok op de achtergrond. Het orkest opent met een langzaam, plechtig koorwerk: strijkers in lange lijnen, orgeltonen als ondergrond.
+# 🎭 **ROSSINI À BRUGES — ACTE II**  
+**Locatie:** Onze‑Lieve‑Vrouwkerk, Brugge  
+**Tijd:** Winter 1830, later dezelfde dag  
+**Stijl:** Seria sacra, plechtig, met contrapunt en koor
 
-**Koor van Kerkgangers (West‑Vlaams, fluisterend)**  
-**KOOR**  
+---
+
+# **SCENA I — De kerk ontwaakt**
+
+**Toneelaanwijzing**  
+Het doek opent op de binnenruimte van de Onze‑Lieve‑Vrouwkerk. Kaarsen flikkeren. Het Madonna‑beeld van Michelangelo staat centraal, badend in koud winterlicht. Kerkgangers zitten verspreid, fluisterend.
+
+---
+
+## **N.8 — CORO DI FEDELI (West‑Vlaams)**  
+*“’t Is stil in de kerk”*
+
+**KOOR (W‑Vl., zacht)**  
 *’t Is stil in de kerk, de kaarsen goan traag,  
-men knoopt de handen, men bidt en men vraagt.*  
-*(Het is stil in de kerk, de kaarsen gaan traag, men vouwt de handen, men bidt en vraagt.)*
-
-**Recitativo accompagnato — ROSSINI (Italiaans)**  
-**ROSSINI**  
-*Qui, tra marmo e luce, la Madre mi guarda,  
-la sua pena è una nota che non vuole tacere.*  
-*(Hier, tussen marmer en licht, kijkt de Moeder mij aan, haar pijn is een noot die niet wil zwijgen.)*
-
-**Stage action**: Rossini stapt langzaam het koor in, houdt zijn hoed in de hand. Hij nadert het Madonna‑beeld, raakt even de rand van het altaar aan. Licht valt op zijn gezicht.
+men knielt en men bidt, men vraagt en men klaagt.  
+De winter is zwaar, de dagen zijn kort,  
+maor hier in de kerk vindt men troost, vindt men woord.*
 
 ---
 
-#### Scène 2 — Rossini’s eerste aria: de Madonna als motief
-**Aria — ROSSINI (Italiaans, plechtig, seria‑aria)**  
+# **SCENA II — Rossini treedt binnen**
+
+Rossini komt binnen, langzaam, met ontzag. Hij kijkt naar het Madonna‑beeld.
+
+---
+
+## **N.9 — RECITATIVO (Rossini, Italiaans)**
+
+**ROSSINI**  
+*Che silenzio… che respiro antico…  
+Ogni pietra racconta una preghiera.  
+E tu, Madre di marmo…  
+tu mi guardi come se sapessi  
+tutto il peso che porto.*
+
+Hij nadert het beeld.
+
+**ROSSINI**  
+*Forse… forse qui troverò la mia voce perduta.*
+
+---
+
+# **SCENA III — Aria van Rossini**
+
+---
+
+## **N.10 — ARIA DI ROSSINI (Italiaans)**  
+*“Stabat Mater, ombra di marmo”*  
+(seria‑aria, plechtig, gedragen)
+
 **ROSSINI**  
 *Stabat Mater, ombra di marmo e di cielo,  
-la tua voce è filo che tira il mio cuore.  
+la tua voce è un filo che tira il mio cuore.  
 O Madre, che stai, immobile e dolente,  
 fammi ascoltare il tuo canto che pesa.*  
-*(Stabat Mater, schim van marmer en hemel, uw stem is een draad die aan mijn hart trekt. O Moeder, die staat, onbeweeglijk en droevig, laat mij uw zang horen die weegt.)*
 
-**Muzikale aanwijzing**: lange frase, veel legato; orkest ondersteunt met een langzaam ostinato in de lage strijkers. Het **Stabat‑motief** (kleine dalende terts gevolgd door een suspensie) wordt hier voor het eerst volledig uitgespeeld.
-
-**Koor (West‑Vlaams, respons)**  
-**KOOR**  
-*’t Is ne klaag, maor ’t is ne lied,  
-de steen zingt zacht en de stad luistert met verdriet.*  
-*(Het is een klaag, maar het is een lied, de steen zingt zacht en de stad luistert met verdriet.)*
+*Se il dolore è musica,  
+se la pietà è respiro,  
+allora lasciami scrivere  
+ciò che il mondo non osa dire.*
 
 ---
 
-#### Scène 3 — Notabelen en theologische commentaar
-**Toneelbeeld**: Een kleine groep notabelen en een priester verschijnen in de zijbeuk; zij spreken en zingen in Frans, in een meer intellectuele, afstandelijke toon.
+# **SCENA IV — De Contesse verschijnt, devoot**
 
-**Ensemble kort — LA CONTESSE (Frans) en PASTOOR (Frans)**  
+Ze komt uit een zijbeuk, met een brandende kaars, als een verschijning.
+
+---
+
+## **N.11 — ARIA DELLA CONTESSE (Frans, sopraan)**  
+*“Que sa plume serve le ciel”*
+
 **LA CONTESSE**  
-*La piété est noble, mais l’art la rend visible.*  
-*(Devotie is edel, maar kunst maakt haar zichtbaar.)*  
-**PASTEUR**  
-*La douleur sculptée parle aux âmes, et la musique la traduit.*  
-*(De gebeeldhouwde pijn spreekt tot de zielen, en de muziek vertaalt haar.)*
-
-**Recitativo — ROSSINI (Italiaans, zacht)**  
-**ROSSINI**  
-*La pietà è un ponte tra il marmo e la voce; io ascolto e prendo nota.*  
-*(Devotie is een brug tussen marmer en stem; ik luister en neem notitie.)*
-
-**Muzikale aanwijzing**: contrapuntische uitwisseling tussen koor en notabelen; harmonieën blijven in mineur, maar de orkestratie wordt rijker (trombone‑kleur, houtblazers als echo).
+*Que sa plume serve le ciel,  
+que sa musique élève nos âmes.  
+Rossini, vous êtes l’élu,  
+celui qui peut rendre la foi visible.  
+Écrivez pour la lumière,  
+écrivez pour la paix,  
+écrivez pour Bruges qui attend  
+un miracle de vos mains.*
 
 ---
 
-#### Scène 4 — Het visioen en de muzikale transformatie
-**Toneelbeeld**: Licht verandert; de Madonna‑projectie lijkt te bewegen — een subtiel effect dat Rossini als een visioen ervaart. Het Stabat‑motief wordt gemoduleerd en uitgebreid.
+# **SCENA V — De Priester sluit zich aan**
 
-**Coro d’ispirazione — orkest en koor (Italiaans/West‑Vlaams mix)**  
-**ORKEST** (instrumentaal thema) introduceert variaties op het Stabat‑motief.  
-**KOOR (West‑Vlaams, fluisterend)**  
-*’t Is as of de steen zingt, as of de lucht antwoordt.*  
-*(Het is alsof de steen zingt, alsof de lucht antwoordt.)*
-
-**Aria d’immaginazione — ROSSINI (Italiaans, lyrisch, groeiend)**  
-**ROSSINI**  
-*Vedo linee di canto, marmo che respira,  
-ogni lacrima è un intervallo, ogni sospiro un accordo.  
-Se la Madre piange, io scriverò la sua voce,  
-e la sua pena diventerà musica che cura.*  
-*(Ik zie lijnen van zang, marmer dat ademt, elke traan is een interval, elke zucht een akkoord. Als de Moeder huilt, zal ik haar stem schrijven, en haar pijn zal muziek worden die geneest.)*
-
-**Muzikale aanwijzing**: de aria bouwt naar een hoge, expressieve climax; koper en strijkers geven een glans; het Stabat‑motief wordt nu in een hogere register herhaald als een cantilene.
+Hij komt waardig naar voren, met een boek in de hand.
 
 ---
 
-#### Scène 5 — Koor van devoten en Rossini’s belofte
-**Toneelbeeld**: De kerk vult zich met meer kerkgangers; het koor zingt een plechtig respons in West‑Vlaams, terwijl Rossini zijn intentie uitspreekt.
+## **N.12 — DUETTO ROSSINI–PRÊTRE (It./Fr.)**  
+*“La foi renaîtra”*
 
-**Koor (West‑Vlaams, plechtig)**  
-**KOOR**  
-*’t Is bid en ’t is zang, de stad houdt de adem in,  
-men voelt ne man die schrijft, men voelt ne man met zin.*  
-*(Het is gebed en zang, de stad houdt de adem in, men voelt een man die schrijft, men voelt een man met zin.)*
+**PRÊTRE (Fr.)**  
+*La foi renaîtra, maestro,  
+si votre plume s’ouvre au ciel.*  
 
-**Recitativo secco — ROSSINI (Italiaans)**  
-**ROSSINI**  
-*Scriverò il Stabat, ma non come lamento solo;  
-lo scriverò come preghiera che si leva e consola.*  
-*(Ik zal het Stabat schrijven, maar niet alleen als klaagzang; ik zal het schrijven als een gebed dat opstijgt en troost.)*
+**ROSSINI (It.)**  
+*La fede… sì… la sento…  
+ma il mio cuore è ancora diviso.*  
 
-**Aria finale van de akte — ROSSINI (Italiaans, plechtig, resoluut)**  
-**ROSSINI**  
-*O Madre, ascolta: la mia penna è pronta,  
-trasformerò la tua pena in canto che abbraccia.  
-Se il marmo parla, io sarò la sua voce,  
-e la voce farà che il pianto diventi preghiera.*  
-*(O Moeder, hoor: mijn pen is gereed, ik zal uw pijn veranderen in zang die omarmt. Als het marmer spreekt, zal ik zijn stem zijn, en die stem zal de traan tot gebed maken.)*
+**PRÊTRE (Fr.)**  
+*La douleur de la Mère  
+est la douleur du monde.*  
 
-**Koor respons (West‑Vlaams en Frans, in contrapunt)**  
-**KOOR**  
-*’t Is ne bel voornemen, de stad zingt zacht,  
-La ville écoute et retient la promesse de la nuit.*  
-*(Het is een mooie voornemen, de stad zingt zacht, de stad luistert en houdt de belofte van de nacht vast.)*
+**ROSSINI (It.)**  
+*E la sua voce…  
+forse può guidare la mia.*
 
-**Laatste muzikale aanduiding**: het Stabat‑motief eindigt op een open, enigszins hoopvolle cadens — nog in mineur, maar met een opwaartse lijn die naar Act III leidt.
+**PRÊTRE (W‑Vl., warm maar streng)**  
+*Ge moet schrijven, maestro,  
+’t is Brugge die roept,  
+’t is de Heer die vraagt.*
 
-**Einde Act II**: licht dimt op Rossini bij het Madonna‑beeld; koor zingt een laatste, fluisterende noot die in de kerk echoot.
+**ROSSINI (It.)**  
+*Forse… forse sì…*
+
+Het duet eindigt in een plechtige cadens.
 
 ---
 
-### Regie‑ en muzikale aanwijzingen voor Act II
-- **Sfeer**: behoud plechtigheid en sacrale stilte; tempi traag, frasering ruim. Rossini’s lijnen moeten innerlijk branden — veel rubato en expressieve portamento.  
-- **Stabat‑motief**: introduceer het motief duidelijk en laat het orkest en koor ermee spelen: variaties in register, ritme en harmonie. Dit motief is de leidraad voor de rest van de opera.  
-- **Licht en projectie**: gebruik subtiele beweging in de Madonna‑projectie (schaduwen, lichtvlekken) om Rossini’s visioen tastbaar te maken zonder kitsch.  
-- **Taal en articulatie**: Rossini in warm Italiaans; notabelen in verfijnd Frans; koor en devoten in West‑Vlaams met zachte, plechtige articulatie. Dialectcoach aanbevolen.  
-- **Orkestratie**: strijkers en orgel als basis; houtblazers en hoorns voor kleur; koper spaarzaam voor hoogtepunten; gebruik van celesta of harp voor de visioenen.  
-- **Dramatische boog**: Act II moet Rossini’s innerlijke beslissing voorbereiden — van contemplatie naar de eerste concrete belofte om te schrijven. De overgang naar hoopvolheid gebeurt subtiel via muzikale modulaties en het visioen.
+# **SCENA VI — De Burgemeester valt binnen**
 
---- 
+Hij komt binnen met koude lucht achter zich, duidelijk misplaatst in de sacrale sfeer.
 
-Als je wil, werk ik nu de **volledige tekst van de Stabat‑aria** uit
-(Italiaans met metrische aanduidingen en orkestrale cues), of lever ik
-een fonetische transcriptie van de West‑Vlaamse koorpartijen voor
-zangers. Welke van die twee wil je eerst?
+---
 
+## **N.13 — RECITATIVO (Burgemeester, tenor, W‑Vl.)**
+
+**BURGEMEESTER**  
+*Allez jong, wat is da hier allemaal?  
+Heel Brugge zit te verkleumen,  
+en gij wilt klaagliederen schrijven?  
+Rossini, ge moet naar de markt komen,  
+’t volk wacht op muziek die leeft!*
+
+---
+
+## **N.14 — QUARTETTO (It./Fr./W‑Vl.)**  
+*Rossini – Contesse – Priester – Burgemeester*
+
+**CONTESSE (Fr.)**  
+*Silence! Ceci est un lieu sacré!*  
+
+**PRÊTRE (Fr.)**  
+*Vous profanez la maison de Dieu!*  
+
+**BURGEMEESTER (tenor, W‑Vl.)**  
+*’t Volk is ook van God, hé!  
+En ’t volk wil zingen, nie wenen!*  
+
+**ROSSINI (It.)**  
+*Basta! Lasciatemi pensare…  
+la mia anima è tirata da tutte le parti…*
+
+---
+
+# **SCENA VII — Visioen van inspiratie**
+
+Het licht verandert. Het Madonna‑beeld lijkt te gloeien. Rossini hoort een innerlijke melodie.
+
+---
+
+## **N.15 — ARIA D’IMMAGINAZIONE (Rossini, Italiaans)**  
+*“Vedo linee di canto”*
+
+**ROSSINI**  
+*Vedo linee di canto,  
+marmo che respira,  
+ogni lacrima è un intervallo,  
+ogni sospiro un accordo.*  
+
+*Se la Madre piange,  
+io scriverò la sua voce,  
+e la sua pena diventerà  
+musica che cura.*
+
+---
+
+# **SCENA VIII — Finale II**
+
+Alle personages komen samen. De spanning tussen sacraal en volks wordt voelbaar.
+
+---
+
+## **N.16 — FINALE II (Ensemble)**
+
+**KOOR (W‑Vl.)**  
+*De kerk houdt heur adem,  
+de stad luistert mee…*
+
+**CONTESSE (Fr.)**  
+*Il écrira pour le ciel!*  
+
+**PRÊTRE (Fr.)**  
+*Le Stabat renaîtra!*  
+
+**BURGEMEESTER (tenor, W‑Vl.)**  
+*Hij moet naar ’t volk, nie naar de hemel!*  
+
+**ROSSINI (It.)**  
+*Forse… forse scriverò…  
+ma non so ancora per chi…  
+per il cielo… o per la città…*
+
+**KOOR (W‑Vl.)**  
+*Brugge wacht… Brugge hoopt…*
+
+Het licht dimt. Rossini blijft alleen voor het Madonna‑beeld.
+
+**ROSSINI (It., zacht)**  
+*Guidami…*
+
+**EINDE ACT II**
+
+---
