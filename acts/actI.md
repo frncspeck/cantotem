@@ -1,44 +1,39 @@
-Natuurlijk — dat is een heel elegante keuze.  
-Een **tenor‑burgemeester** past perfect in Rossiniaanse traditie: hij wordt dan de **brillante, energieke, volkse tegenstem** tegenover de **bas‑bariton priester** en de **sopraan Contesse**. Het geeft je vocale dramaturgie een prachtige balans:
+Geweldig — dan starten we nu met **ACTE I**, volledig **herwerkt**, **gepolijst**, en **gebaseerd op de definitieve personages en stemtypes** die we samen hebben vastgelegd.
 
-- **Priester** = bas‑bariton → zwaar, autoritair, moralistisch  
-- **Burgemeester** = **tenor** → licht, energiek, volks, vooruitstrevend  
-- **Rossini** = bariton/lyrische tenor → centraal, flexibel  
-- **Contesse** = sopraan → devoot, aristocratisch  
-- **Mezzo** = heldin → warm, menselijk, verbindend  
-
-Dat is pure Rossini‑kleur.
-
-Ik pas dit meteen in het libretto in.  
-Hieronder krijg je **Act I volledig herwerkt**, met de **burgemeester als tenor**.  
-Alle vocale lijnen, ensembles en karakterdynamiek zijn aangepast.
+Ik schrijf dit als een **professioneel operalibretto**, klaar voor componist, regisseur en dramaturg.  
+Alle namen, talen, stemtypes en karakterdynamieken zijn nu correct geïntegreerd.
 
 ---
 
-# 🎭 **ROSSINI À BRUGES — ACTE I (HERWERKT MET TENOR‑BURGEMEESTER)**  
-**Locatie:** Brugge, winter 1830. Stadspoort, reien, mist.  
-**Stijl:** Opera seria.
+# 🎭 **ROSSINI À BRUGES — ACTE I (HERWERKT)**  
+**Locatie:** De stadspoort van Brugge, winter 1830  
+**Stijl:** Opera seria — plechtig, mistig, introspectief
 
 ---
 
 # **SCENA I — De Stadspoort in de Wintermist**
 
 **Toneelaanwijzing**  
-Een winterse Brugse stadspoort. Mist. Koude wind. Een koets nadert.
+Het doek opent op een winterse Brugse stadspoort.  
+Dikke mist. Koude wind. Een enkele lantaarn flikkert.  
+Een koets nadert langzaam over de kasseien.
 
 ---
 
-## **N.1 — CORO D’INTRODUZIONE (West‑Vlaams)**
+## **N.1 — CORO D’INTRODUZIONE (West‑Vlaams)**  
+*Koor van Bruggelingen, gehuld in mantels, fluisterend in de koude lucht.*
 
-**KOOR**  
+**KOOR (W‑Vl.)**  
 *’t Is ne vreemde die komt deur de poort,  
-met z’n hoed omlaag en z’n mantel vol noot.  
+met z’n mantel zwaar en z’n ogen vol noot.  
 De winter blaast koud, de stad houdt heur adem,  
 wie komt hier zo vroeg, wie zoekt hier genade?*
 
 ---
 
 # **SCENA II — Rossini stapt uit de koets**
+
+Rossini stapt uit, zichtbaar vermoeid, met een map partituren onder de arm.
 
 ---
 
@@ -48,46 +43,54 @@ wie komt hier zo vroeg, wie zoekt hier genade?*
 *Fuggito da Parigi… sì…  
 la città del clamore, del giudizio, del peso.  
 Qui cerco silenzio…  
-un respiro che non giudica,  
+un respiro che non ferisce,  
 una pietra che ascolta.*  
 
 Hij kijkt naar de reien.
 
 **ROSSINI**  
 *Bruges… città di nebbia e memoria…  
-forse qui il mio cuore troverà pace.*
+forse qui ritroverò la mia pace perduta.*
 
 ---
 
 # **SCENA III — De Contesse verschijnt**
+
+Een kleine aristocratische stoet nadert.  
+La Contesse Adélaïde de Flandre stapt naar voren, devoot en elegant.
 
 ---
 
 ## **N.3 — ARIA DELLA CONTESSE (Frans, sopraan)**  
 *“La ville attend un chant sacré”*
 
-**LA CONTESSE**  
+**ADÉLAÏDE**  
 *La ville attend un chant sacré,  
 un souffle venu d’un autre monde.  
 Monsieur Rossini, votre nom résonne  
-comme une prière encore non écrite.  
+comme une prière encore muette.  
 Bruges dort, mais Bruges espère…  
 un chant pour guérir son âme blessée.*
 
 ---
 
-# **SCENA IV — De Priester komt tussenbeide**
+# **SCENA IV — De jonge priester verschijnt**
+
+Abbé Jean‑Baptiste Malou, jong, streng, vurige blik.  
+Hij komt uit de schaduw van de stadspoort.
 
 ---
 
-## **N.4 — ARIA DEL PRÊTRE (Frans/W‑Vl., bas‑bariton)**  
+## **N.4 — ARIA DELL’ABBÉ MALOU (Frans / West‑Vlaams, tenor)**  
 *“Bruges doit retrouver sa dévotion”*
 
-**PRÊTRE (Fr.)**  
+**MALOU (Fr.)**  
 *Bruges doit retrouver sa dévotion,  
 sa foi perdue dans les tempêtes du siècle.*  
 
-**PRÊTRE (W‑Vl.)**  
+Hij draait zich naar het volk.
+
+**MALOU (W‑Vl.)**  
 *’t Is tijd da de stad weer bidt,  
 da de mensen heur zonden vergeten.  
 En gij, maestro…  
@@ -96,46 +99,50 @@ een Stabat Mater voor Brugge!*
 
 ---
 
-# **SCENA V — De Burgemeester stormt binnen (TENOR)**
+# **SCENA V — De burgemeester komt op**
 
-De burgemeester komt op, energiek, warm, met een tenorhelderheid die meteen contrasteert met de bas van de priester.
+Joseph van Severen, de oude burgemeester, warm en vaderlijk, stapt binnen.  
+Zijn basstem vult de ruimte.
 
 ---
 
-## **N.5 — ARIA DEL BOURGMEESTER (Tenor, West‑Vlaams)**  
+## **N.5 — ARIA DEL BOURGMEESTER (Bas, West‑Vlaams)**  
 *“’t Volk moet zingen, nie wenen”*
 
-**BURGEMEESTER (tenor)**  
+**BURGEMEESTER (bas)**  
 *’t Volk moet zingen, nie wenen,  
 ’t is winter genoeg zonder klaag.  
 Laat Brugge leven, laat Brugge beven  
-van vreugde op de vismarkt vandaag!  
-Geen Stabat Mater, neen,  
+van vreugde op de vismarkt vandaag!*  
+
+*Geen Stabat Mater, neen,  
 maor een lied voor iedereen!  
 Laat de mensen lachen,  
 laat de kinderen dansen,  
 muziek moet vrij zijn,  
 muziek moet kans’n!*
 
-Zijn tenor glanst boven het koor — een Rossiniaanse “tenore di grazia”.
-
 ---
 
 # **SCENA VI — Trio van botsende werelden**
 
-Rossini staat tussen drie krachten.
+Rossini staat tussen drie krachten:
+
+- de devoot‑aristocratische Contesse  
+- de vurige jonge priester  
+- de warme, volkse burgemeester
 
 ---
 
 ## **N.6 — TRIO (It./Fr./W‑Vl.)**
 
-**CONTESSE (Fr., sopraan)**  
+**ADÉLAÏDE (Fr.)**  
 *Monsieur, écoutez la voix du ciel…*
 
-**PRÊTRE (Fr., bas‑bariton)**  
+**MALOU (Fr., tenor)**  
 *La foi vous appelle, maestro…*
 
-**BURGEMEESTER (tenor, W‑Vl.)**  
+**BURGEMEESTER (bas, W‑Vl.)**  
 *Laat hem gerust, hij is moe, hij moet lachen, nie bidden!*
 
 **ROSSINI (It.)**  
@@ -143,11 +150,14 @@ Rossini staat tussen drie krachten.
 non cerco né festa né preghiera…  
 solo silenzio… solo pace…*
 
-Het trio eindigt in een plechtige, gespannen cadens.
+Het trio eindigt in een gespannen cadens.
 
 ---
 
 # **SCENA VII — Finale I**
+
+De mist wordt dikker.  
+De stad lijkt Rossini te omarmen én te verstikken.
 
 ---
 
@@ -157,13 +167,13 @@ Het trio eindigt in een plechtige, gespannen cadens.
 *De stad kijkt toe, de stad zwijgt stil,  
 wie brengt muziek, wie brengt er wil?*
 
-**CONTESSE (Fr.)**  
+**ADÉLAÏDE (Fr.)**  
 *Il écrira pour le ciel, j’en suis sûre…*
 
-**PRÊTRE (Fr.)**  
+**MALOU (Fr., tenor)**  
 *Le Stabat renaîtra…*
 
-**BURGEMEESTER (tenor, W‑Vl.)**  
+**BURGEMEESTER (bas, W‑Vl.)**  
 *’t Zal feest zijn, ge zult wel zien!*
 
 **ROSSINI (It.)**  
@@ -175,9 +185,10 @@ forse qui ritroverò la mia voce.*
 *’t Is winter in Brugge…  
 maor misschien komt er licht…*
 
-**Licht dooft langzaam.**
+Het licht dooft langzaam.
 
-**EINDE ACT I**
+**EINDE ACTE I**
 
 ---
 
+Als je wil, ga ik **onmiddellijk verder met ACTE II**, volledig herwerkt met de nieuwe personages en stemtypes.

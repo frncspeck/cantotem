@@ -1,28 +1,25 @@
-Uitstekend — dan zetten we onze reis verder met **Act III**, volledig uitgewerkt in operalibretto‑vorm, in dezelfde stijl als Act I en II.  
-Dit is de akte waarin de **mezzo‑soprano** haar grote intrede doet en Rossini’s melancholie omslaat naar licht.  
-De burgemeester (tenor) en priester (bas‑bariton) botsen steeds harder, terwijl de Contesse (sopraan) jaloers en devoot blijft.
+Hier gaan we — **ACTE III**, volledig herwerkt met de definitieve personages, stemtypes en namen.  
+Dit is de akte waarin de opera **openbloeit**: de mist van Act I en de sacraliteit van Act II maken plaats voor **zon, leven, markt, volk en muziek**.  
+Isabella Montanari, onze Italiaanse mezzo, maakt haar glorieuze entree en wordt de motor van Rossini’s innerlijke ommekeer.
 
-We blijven trouw aan de taalverdeling:  
-- **Rossini** — Italiaans  
-- **Mezzo** — Italiaans  
-- **Contesse** — Frans  
-- **Priester** — Frans / West‑Vlaams  
-- **Burgemeester** — West‑Vlaams (tenor)  
-- **Volk** — West‑Vlaams  
+Ik schrijf dit opnieuw als een **professioneel operalibretto**, klaar voor componist en regisseur.
 
 ---
 
-# 🎭 **ROSSINI À BRUGES — ACTE III**  
-**Locatie:** De Grote Markt van Brugge, middagzon  
+# 🎭 **ROSSINI À BRUGES — ACTE III (HERWERKT)**  
+**Locatie:** De Grote Markt van Brugge  
+**Tijd:** De volgende ochtend  
 **Stijl:** Lyrisch → proto‑buffa  
-**Dramaturgie:** De mezzo brengt Rossini naar het licht; de burgemeester ziet kansen; de priester voelt zich bedreigd; de Contesse wordt jaloers.
+**Dramaturgie:** De mezzo brengt licht; de priester voelt zich bedreigd; de burgemeester bloeit open; de Contesse wordt jaloers.
 
 ---
 
 # **SCENA I — De Markt ontwaakt**
 
 **Toneelaanwijzing**  
-De Grote Markt bruist. Kraampjes, vis, groenten, kinderen die spelen. De zon breekt door de winterwolken. Een reizende Italiaanse muziekgroep zet een klein podium op.
+De Grote Markt bruist. Kraampjes, vis, groenten, kinderen, katten, meeuwen.  
+De zon breekt door de winterwolken.  
+Een kleine Italiaanse reizende muziekgroep zet een podium op.
 
 ---
 
@@ -39,15 +36,15 @@ De stad wordt wakker, de mensen roepen,
 
 # **SCENA II — De Mezzo verschijnt**
 
-De Italiaanse mezzo stapt naar voren, warm, stralend, met een shawl rond haar schouders. Het volk valt stil.
+Isabella Montanari stapt naar voren, warm, stralend, met een shawl rond haar schouders.  
+Het volk valt stil.
 
 ---
 
-## **N.18 — ARIA DELLA MEZZO (Italiaans)**  
-*“Ascolta, città che respira”*  
-(lyrisch, warm, open)
+## **N.18 — ARIA DI ISABELLA (Italiaans, mezzo)**  
+*“Ascolta, città che respira”*
 
-**MEZZO**  
+**ISABELLA**  
 *Ascolta, città che respira,  
 ascolta il canto che apre il cuore.  
 La voce è un ponte tra cielo e terra,  
@@ -64,7 +61,8 @@ Het volk reageert ontroerd.
 
 # **SCENA III — Rossini hoort haar zingen**
 
-Rossini komt op, aangetrokken door de stem. Hij stopt midden op het plein, alsof hij een visioen ziet.
+Rossini komt op, aangetrokken door de stem.  
+Hij stopt midden op het plein, alsof hij een visioen ziet.
 
 ---
 
@@ -92,9 +90,10 @@ allora non tutto è perduto…*
 
 ---
 
-# **SCENA IV — Duetto Rossini & Mezzo**
+# **SCENA IV — Duetto Rossini & Isabella**
 
-Ze zien elkaar voor het eerst. Het volk vormt een halve cirkel rond hen.
+Ze zien elkaar voor het eerst.  
+Het volk vormt een halve cirkel rond hen.
 
 ---
 
@@ -104,32 +103,33 @@ Ze zien elkaar voor het eerst. Het volk vormt een halve cirkel rond hen.
 **ROSSINI**  
 *Tu canti… ed io rinasco.*  
 
-**MEZZO**  
+**ISABELLA**  
 *E tu ascolti… e la musica vive.*  
 
 **ROSSINI**  
 *La tua voce è un ponte…*  
 
-**MEZZO**  
+**ISABELLA**  
 *E tu, maestro, puoi attraversarlo.*  
 
 **ROSSINI**  
 *Forse… sì…*  
 
-**MEZZO**  
-*La vita ti chiama.*  
+**ISABELLA**  
+*La vita ti chiama.*
 
 Ze eindigen in een zachte, hoopvolle cadens.
 
 ---
 
-# **SCENA V — De Burgemeester ziet kansen**
+# **SCENA V — De burgemeester ziet kansen**
 
-De burgemeester komt enthousiast op, met een mand vis.
+De oude burgemeester komt enthousiast op, met een mand vis.  
+Zijn basstem glanst warm over het plein.
 
 ---
 
-## **N.22 — ARIA DEL BOURGMEESTER (Tenor, W‑Vl.)**  
+## **N.22 — ARIA DEL BOURGMEESTER (Bas, W‑Vl.)**  
 *“Ziet ge wel, muziek brengt leven!”*
 
 **BURGEMEESTER**  
@@ -147,14 +147,14 @@ maor een lied dat iedereen ziet!
 
 # **SCENA VI — De Contesse verschijnt, jaloers**
 
-Ze komt op, zichtbaar geschokt door de invloed van de mezzo.
+Adélaïde komt op, zichtbaar geschokt door de invloed van Isabella.
 
 ---
 
-## **N.23 — ARIA DELLA CONTESSE (Frans, sopraan)**  
+## **N.23 — ARIA D’ADÉLAÏDE (Frans, sopraan)**  
 *“Cette voix le détourne du ciel”*
 
-**LA CONTESSE**  
+**ADÉLAÏDE**  
 *Cette voix le détourne du ciel,  
 cette femme trouble son âme.  
 Rossini, vous étiez choisi  
@@ -169,18 +169,18 @@ Een dramatische sopraan‑uitbarsting.
 
 ---
 
-# **SCENA VII — De Priester komt tussenbeide**
+# **SCENA VII — De jonge priester komt tussenbeide**
 
-Hij stormt op, verontwaardigd.
+Abbé Malou stormt op, verontwaardigd, zijn tenor scherp en fel.
 
 ---
 
-## **N.24 — RECITATIVO (Priester, Fr./W‑Vl.)**
+## **N.24 — RECITATIVO (Malou, Fr./W‑Vl.)**
 
-**PRÊTRE (Fr.)**  
+**MALOU (Fr.)**  
 *Ceci est une tentation! Une épreuve!*  
 
-**PRÊTRE (W‑Vl.)**  
+**MALOU (W‑Vl.)**  
 *Da’s nie goed, maestro, da’s nie goed!  
 Da wijfke leidt u van de Heer weg!*
 
@@ -194,19 +194,19 @@ Alle personages botsen vocaal.
 
 ## **N.25 — FINALE III (Ensemble)**
 
-**MEZZO (It.)**  
+**ISABELLA (It.)**  
 *Lascia che la musica ti guidi!*  
 
 **ROSSINI (It.)**  
 *Il mio cuore si apre…*  
 
-**CONTESSE (Fr.)**  
+**ADÉLAÏDE (Fr.)**  
 *Non! Il doit servir le ciel!*  
 
-**PRÊTRE (Fr.)**  
+**MALOU (Fr., tenor)**  
 *La foi est en danger!*  
 
-**BURGEMEESTER (tenor, W‑Vl.)**  
+**BURGEMEESTER (bas, W‑Vl.)**  
 *Laat hem zingen voor ’t volk!*  
 
 **KOOR (W‑Vl.)**  
@@ -220,8 +220,8 @@ ma anche luce… e vita…*
 
 Het ensemble eindigt in een stralende majeur‑cadens.
 
-**EINDE ACT III**
+**EINDE ACTE III**
 
 ---
 
-Als je wil, ga ik **onmiddellijk verder met Act IV**, volledig uitgewerkt in dezelfde stijl.
+Als je wil, ga ik **onmiddellijk verder met ACTE IV**, volledig herwerkt met de nieuwe personages en stemtypes.

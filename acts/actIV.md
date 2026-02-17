@@ -1,242 +1,245 @@
-Hier komt **ACT V**, de grote, feestelijke **opera‑buffa‑finale** van *Rossini à Bruges*, volledig uitgewerkt in dezelfde stijl als de vorige aktes.  
-Dit is het moment waarop **alle spanningen oplossen**, **het volk overwint**, **Rossini triomfeert**, **de mezzo schittert**, **de burgemeester straalt**, **de priester ontdooit**, en **de Contesse capituleert**.
+Hier komt **ACTE IV**, volledig herwerkt met de definitieve personages, stemtypes en namen.  
+Dit is de akte waarin de opera **kantelt naar buffa**: Rossini vindt zijn humor terug, de jonge priester verliest zijn greep, de oude burgemeester bloeit open, en de Contesse ziet haar wereldbeeld wankelen.  
+De **Jeruzalemkerk** wordt het toneel van een sacrale parodie — een typisch Rossiniaans spel tussen ernst en lichtheid.
 
-We blijven trouw aan de taalverdeling:  
-- **Rossini** — Italiaans  
-- **Mezzo** — Italiaans  
-- **Contesse** — Frans  
-- **Priester** — Frans / West‑Vlaams  
-- **Burgemeester** — West‑Vlaams (tenor)  
-- **Volk** — West‑Vlaams  
+Ik schrijf dit opnieuw als een **professioneel operalibretto**, klaar voor componist en regisseur.
 
 ---
 
-# 🎭 **ROSSINI À BRUGES — ACTE V**  
-**Locatie:** De Vismarkt van Brugge, bij dageraad  
-**Stijl:** Volwaardige opera buffa  
-**Dramaturgie:** Het volk viert, Rossini schrijft zijn buffa‑manifest, de priester geeft toe, de Contesse capituleert, de mezzo leidt de vreugde.
+# 🎭 **ROSSINI À BRUGES — ACTE IV (HERWERKT)**  
+**Locatie:** De Jerusalemkerk, Brugge  
+**Tijd:** Avond van dezelfde dag  
+**Stijl:** Parodie sacra → proto‑buffa  
+**Dramaturgie:** Rossini bevrijdt zichzelf; priester en Contesse verliezen controle; burgemeester verdedigt het volk.
 
 ---
 
-# **SCENA I — De Vismarkt ontwaakt**
+# **SCENA I — De Jerusalemkerk in de schemering**
 
 **Toneelaanwijzing**  
-De zon komt op boven de reien. De vismarkt bruist: kramen, netten, vissers, kinderen, katten, meeuwen. De sfeer is uitbundig.  
-Het orkest speelt een sprankelend allegro met pizzicato‑strijkers en houtblazers.
+De Jerusalemkerk is klein, intiem, mysterieus.  
+Kaarsen flikkeren. De ruimte is half vervallen — een reliek van de middeleeuwen.  
+Rossini zit alleen aan een houten tafel, met papier en inkt.
 
 ---
 
-## **N.35 — CORO DI MERCATO (West‑Vlaams)**  
-*“’t Is visdag, ’t is zangdag”*
-
-**KOOR (W‑Vl.)**  
-*’t Is visdag, ’t is zangdag, kom koop en kom lach,  
-de netten goan open, de stad krijgt weer kracht!  
-De zon komt op, de markt wordt warm,  
-’t is Brugge die leeft, ’t is Brugge die charme!*
-
----
-
-# **SCENA II — Rossini verschijnt**
-
-Rossini komt op, stralend, met partituren onder de arm. Hij klimt op een viskist.
-
----
-
-## **N.36 — ARIA DI ROSSINI (Italiaans)**  
-*“Cantotem della città”*  
-(bravoure‑aria, virtuoos, buffa)
+## **N.26 — RECITATIVO (Rossini, Italiaans)**
 
 **ROSSINI**  
-*Cantotem della città!  
-Io canto il pianto e il riso,  
-posso far tremare il cuore  
-e poi farlo ridere in un istante!*  
+*Che luogo strano…  
+mezzo tempio, mezzo rovina…  
+come il mio cuore, forse.*  
 
-*Ho scritto tragedie e buffe,  
-ho giocato con la fede e il coro,  
-ora la città è la mia scena,  
-e la scena è il mio tesoro!*  
+Hij kijkt naar de muren.
 
-*La voce è un mercato,  
-la nota è un pesce che salta,  
-Figaro faceva tutto…  
-e anch’io so far di tutto!*
+**ROSSINI**  
+*La fede qui è un’eco lontana…  
+ma forse… proprio qui…  
+posso ridere di nuovo.*  
 
-Het volk juicht.
+Hij neemt zijn pen.
 
----
-
-# **SCENA III — De Mezzo treedt naar voren**
-
-Ze verschijnt tussen de mensen, warm en stralend.
+**ROSSINI**  
+*Sì… basta lacrime…  
+la musica deve respirare,  
+giocare, vivere!*
 
 ---
 
-## **N.37 — ARIA DELLA MEZZO (Italiaans)**  
-*“La gioia è un canto che libera”*
-
-**MEZZO**  
-*La gioia è un canto che libera,  
-che scioglie il gelo del cuore.  
-Bruges, città silenziosa,  
-ora canta con me!*  
-
-*La vita è una danza,  
-la musica è un abbraccio,  
-e tu, Rossini,  
-hai riportato il sole!*
-
-Het volk zingt zacht mee.
+# **SCENA II — Rossini begint zijn parodie**
 
 ---
 
-# **SCENA IV — De Burgemeester triomfeert**
+## **N.27 — ARIA PARODICA DI ROSSINI (Italiaans)**  
+*“Stabat Mater Gloriosa”*  
+(licht, speels, maar met sacrale contouren)
 
-Hij springt op een ton, tenor glanzend.
+**ROSSINI**  
+*Stabat Mater Gloriosa,  
+la Madre sorride e poi canta.  
+Non più dolore, ma luce giocosa,  
+non più catene, ma danza che incanta.*  
 
----
+*Stabat qui, stabat là,  
+stabat con un raggio di sole qua!  
+Se la fede vuole piangere,  
+io le insegno a sorridere un po’.*
 
-## **N.38 — ARIA DEL BOURGMEESTER (Tenor, W‑Vl.)**  
-*“Ziet ge wel!”*
-
-**BURGEMEESTER**  
-*Ziet ge wel! Ziet ge wel!  
-’t Is feest, ’t is feest, jawel!  
-Rossini brengt leven,  
-Rossini brengt lach,  
-en Brugge danst van ’s morgens vroeg  
-tot ’s avonds late nacht!*  
-
-*Geen klaag, geen verdriet,  
-maor een lied voor iedereen!  
-Ziet ge wel! Ziet ge wel!  
-’t Is Brugge op z’n best!*
+Hij lacht zacht terwijl hij schrijft.
 
 ---
 
-# **SCENA V — De Priester komt aarzelend op**
+# **SCENA III — Het volk hoort hem**
 
-Hij houdt zijn handen achter zijn rug, onzeker.
-
----
-
-## **N.39 — ARIA DEL PRÊTRE (Frans/W‑Vl., bas‑bariton)**  
-*“Je vois… la joie est aussi une prière”*
-
-**PRÊTRE (Fr.)**  
-*Je vois… la joie est aussi une prière…  
-un souffle qui élève les âmes.*  
-
-Hij kijkt naar het volk.
-
-**PRÊTRE (W‑Vl.)**  
-*’t Is waar… ge kunt nie altijd wenen…  
-soms moet ge lachen om te genezen.*  
-
-**PRÊTRE (Fr.)**  
-*Rossini…  
-je vous ai jugé trop vite.*  
-
-Een ontroerende buffa‑aria met warme baslijnen.
+Enkele buurtbewoners gluren binnen, verbaasd.
 
 ---
 
-# **SCENA VI — De Contesse capituleert**
-
-Ze komt op, waardig maar ontroerd.
-
----
-
-## **N.40 — ARIA DELLA CONTESSE (Frans, sopraan)**  
-*“Je me rends”*
-
-**LA CONTESSE**  
-*Je me rends…  
-la musique est plus forte que moi.  
-J’ai voulu le ciel,  
-mais le ciel est ici,  
-dans la joie de ce peuple.*  
-
-*Rossini…  
-écrivez pour eux…  
-et je prierai pour vous.*
-
-Een lyrische, nobele sopraanaria.
-
----
-
-# **SCENA VII — Duetto Priester & Burgemeester**
-
-Ze kijken elkaar aan — eindelijk verzoend.
-
----
-
-## **N.41 — DUETTO (Fr./W‑Vl.)**  
-*“Foi et fête”*
-
-**PRÊTRE (Fr.)**  
-*La foi peut vivre avec la fête…*  
-
-**BURGEMEESTER (W‑Vl.)**  
-*En ’t feest kan leven met de Heer!*  
-
-**PRÊTRE**  
-*Alors… chantons ensemble.*  
-
-**BURGEMEESTER**  
-*Ja, samen!*
-
-Ze eindigen in een komische cadens.
-
----
-
-# **SCENA VIII — Finale V**
-
-Alle personages komen samen.  
-Rossini staat centraal, de mezzo aan zijn zijde.
-
----
-
-## **N.42 — FINALE V (Gran Fuga Buffa)**
-
-**ROSSINI (It.)**  
-*La musica è la città!*  
-
-**MEZZO (It.)**  
-*E la città è la musica!*  
-
-**CONTESSE (Fr.)**  
-*La lumière est revenue!*  
-
-**PRÊTRE (Fr.)**  
-*La foi danse avec la joie!*  
-
-**BURGEMEESTER (tenor, W‑Vl.)**  
-*Brugge leeft! Brugge lacht!*  
+## **N.28 — CORO DI VICINI (West‑Vlaams)**  
+*“’t Is ne zottenman”*
 
 **KOOR (W‑Vl.)**  
-*Cantotem! Cantotem!  
-De stad zingt mee, de stad zingt vrij!*  
-
-**ROSSINI (It.)**  
-*Cantotem della città!*  
-
-**Tutti**  
-*Cantotem della città!*
-
-Een grote, stralende majeur‑fuga sluit de opera af.
-
-**EINDE ACT V**  
-**EINDE OPERA**
+*’t Is ne zottenman die zingt,  
+hij draait de klaag in ne lach!  
+Da’s nie van hier, da’s nie van Brugge,  
+maor ’t klinkt toch schoon, ’t klinkt toch zacht!*
 
 ---
 
-Als je wil, kan ik nu:
+# **SCENA IV — De jonge priester stormt binnen**
 
-- een **volledige PDF‑stijl lay‑out** maken van het libretto  
-- een **dramaturgisch dossier** schrijven  
-- **leitmotieven** analyseren en uitschrijven  
-- of **muzikale suggesties** geven voor een componist
+Abbé Malou komt woedend op, zijn tenor scherp en fel.
 
-Laat me weten waar je naartoe wil.
+---
+
+## **N.29 — RECITATIVO (Malou, Fr./W‑Vl.)**
+
+**MALOU (Fr.)**  
+*Qu’est‑ce que j’entends? Une profanation!*  
+
+**MALOU (W‑Vl.)**  
+*Rossini! Da’s nie normaal!  
+Da’s ne schande in de kerk!*
+
+---
+
+## **N.30 — DUETTO ROSSINI–MALOU (It./Fr./W‑Vl.)**  
+*“La foi… ou la joie?”*
+
+**MALOU (Fr.)**  
+*La foi n’est pas un jeu!*  
+
+**ROSSINI (It.)**  
+*E la gioia non è un peccato!*  
+
+**MALOU (W‑Vl.)**  
+*Ge moogt nie lachen met de Heer!*  
+
+**ROSSINI (It.)**  
+*Io non rido del cielo…  
+rido con il cielo!*  
+
+**MALOU (Fr.)**  
+*La religion doit être reconstruite,  
+pas ridiculisée!*  
+
+**ROSSINI (It.)**  
+*E io la ricostruisco…  
+con la vita, non con la paura!*
+
+Het duet eindigt in een komische, gespannen cadens.
+
+---
+
+# **SCENA V — De burgemeester komt binnen, enthousiast**
+
+De oude burgemeester stapt binnen, breed glimlachend, zijn basstem warm en vol.
+
+---
+
+## **N.31 — ARIA DEL BOURGMEESTER (Bas, W‑Vl.)**  
+*“Laat hem lachen!”*
+
+**BURGEMEESTER**  
+*Laat hem lachen, laat hem zingen,  
+’t volk zal lachen mee!  
+Ge kunt geen stad opbouwen  
+met tranen alleen, nee nee!*  
+
+*Rossini brengt leven,  
+Rossini brengt licht,  
+en als de kerk dat nie wil,  
+dan is ’t de kerk die ’t zicht verliest!*
+
+---
+
+# **SCENA VI — De Contesse verschijnt, ontzet**
+
+Adélaïde komt binnen als een storm van verontwaardiging.
+
+---
+
+## **N.32 — ARIA D’ADÉLAÏDE (Frans, sopraan)**  
+*“C’est un sacrilège!”*
+
+**ADÉLAÏDE**  
+*C’est un sacrilège!  
+Un affront à la lumière divine!  
+Rossini, je vous croyais élu,  
+mais vous jouez avec le sacré!*  
+
+*La musique n’est pas un jouet,  
+la foi n’est pas un théâtre!  
+Revenez au ciel, maestro,  
+avant qu’il ne soit trop tard!*
+
+Een dramatische sopraan‑explosie.
+
+---
+
+# **SCENA VII — Terzetto van botsende krachten**
+
+Rossini, Malou en de burgemeester.
+
+---
+
+## **N.33 — TERZETTO (It./Fr./W‑Vl.)**  
+*“Tre voci, tre mondi”*
+
+**MALOU (Fr., tenor)**  
+*Revenez à la foi!*  
+
+**BURGEMEESTER (bas, W‑Vl.)**  
+*Kom naar ’t volk!*  
+
+**ROSSINI (It.)**  
+*Lasciatemi respirare!*  
+
+**MALOU (W‑Vl.)**  
+*Da’s nie heilig!*  
+
+**BURGEMEESTER**  
+*Da’s plezant!*  
+
+**ROSSINI (It.)**  
+*La musica è tutto questo…  
+e molto di più!*
+
+---
+
+# **SCENA VIII — Finale IV**
+
+De spanning breekt open.  
+Rossini staat centraal, glimlachend, bevrijd.
+
+---
+
+## **N.34 — FINALE IV (Ensemble)**
+
+**ROSSINI (It.)**  
+*Non più prigioniero del pianto,  
+la penna danza e il cuore canta!*  
+
+**MALOU (Fr., tenor, zachter)**  
+*Peut‑être… la joie aussi peut guérir…*  
+
+**BURGEMEESTER (bas, W‑Vl.)**  
+*Ziet ge wel! Hij begrijpt het!*  
+
+**ADÉLAÏDE (Fr., ontzet maar ontroerd)**  
+*Je… je ne comprends plus…*  
+
+**KOOR (W‑Vl.)**  
+*Brugge luistert, Brugge leeft!*  
+
+**ROSSINI (It.)**  
+*La musica è libertà…  
+e io la seguirò!*  
+
+Grote, stralende majeur‑cadens.
+
+**EINDE ACTE IV**
+
+---
+
+Als je wil, ga ik **onmiddellijk verder met ACTE V**, de grote buffa‑finale op de vismarkt.
