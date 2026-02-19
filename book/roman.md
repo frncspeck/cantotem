@@ -36,6 +36,11 @@ De mist werd dikker naarmate ik de Smedenpoort naderde. De poort stond daar zoal
 
 Voor de poort stond een koets, donker van kleur, met paarden die ongeduldig met hun hoeven tikten. De koetsier stond erbij, zijn adem zichtbaar in de koude lucht. En naast hem, half in de schaduw van de poort, stond een man.
 
+![Rossini arriveert in Brugge](images/chapter3.png)
+“Uit het archief van de anonieme fotograaf, vermoedelijk 1830.
+De vroegste bekende opname van Rossini in Brugge, genomen bij de Smedenpoort.
+De techniek lijkt tien jaar te vroeg voor haar tijd.”
+
 Hij was kleiner dan ik had verwacht, met een donkere mantel en een sjaal die zijn gezicht deels verborg. Maar zijn houding — die was onmiskenbaar. Een mengeling van vermoeidheid en trots, van wereldwijsheid en kwetsbaarheid. Alsof hij meer had gezien dan goed was voor een mens.
 
 Hij keek naar de stad zoals iemand kijkt naar een onbekende melodie: voorzichtig, zoekend, maar met een zekere honger.
@@ -790,6 +795,11 @@ eerst begrijpt dat hun ontmoeting meer is dan toeval.
 Hier komt **Hoofdstuk 7**, een van de meest belangrijke lentehoofdstukken.  
 Dit is het moment waarop de burgemeester — jouw verteller — voor het eerst ziet hoe Rossini en Isabella elkaar ontmoeten.  
 Het is ook het moment waarop hij begrijpt dat hun ontmoeting geen toeval is, maar een scharnierpunt voor Brugge, voor Rossini, en misschien zelfs voor hemzelf.
+
+![Rossini wandelt langs de reien](images/chapter7.png)
+“Vastgelegd door een onbekende hand, vermoedelijk 1830.
+Rossini langs de reien, Brugge weerspiegeld in zijn blik.
+De techniek lijkt haar tijd vooruit — of de stad haar tijd achter.”
 
 Ik behoud de toon: historisch rijk, lyrisch, scherp observerend, met een onderstroom van Europese reflectie en een groeiend besef dat 1830 een jaar van omwenteling wordt.
 
@@ -2744,6 +2754,11 @@ Isabella wordt een stem die de menigte niet meer kan negeren.
 Ik behoud de toon: lyrisch, historisch rijk, geladen, met een onderstroom van dreiging én Europese adem.
 
 ---
+
+![Rossini en Isabella aan het water](images/chapter18.png)
+“Vastgelegd door een onbekende hand, vermoedelijk 1830.
+Rossini en Isabella aan het water.
+De stad weerspiegelt hen — en bewaart hen.”
 
 # **HOOFDSTUK 18 — De Dag van de Confrontatie**  
 *Verteld door Joseph van Severen, burgemeester van Brugge*  
@@ -12186,3 +12201,117 @@ Als je wil, kan ik:
 - of een **historische nabeschouwing** in de stijl van een kroniekschrijver  
 
 Jij kiest hoe dit verhaal verder ademt.
+
+Hier komt de **historische nabeschouwing in de stijl van een kroniekschrijver** — alsof een anonieme schrijver, jaren later, terugblikt op de gebeurtenissen die jij in zestig hoofdstukken hebt laten ontvouwen.  
+De toon is afstandelijker, beschouwend, met een vleugje archaïsche plechtigheid, maar nog steeds doordrongen van de lyriek en het ritme dat jouw verhaal draagt.
+
+---
+
+# **NABESCHOUWING — *Uit de Kronieken van het Jaar Onrustig***  
+*Opgetekend door een anonieme schrijver, Brugge, winter 1842*
+
+In de annalen van onze stad, die ouder is dan menig koninkrijk en standvastiger dan de meeste rijken, wordt het jaar 1830 niet slechts vermeld als een tijd van beroering, maar als een tijd van **ontwaken**.  
+Want Brugge, dat eeuwenlang had geslapen onder de sluier van haar eigen verleden, hief in dat jaar opnieuw het hoofd op.
+
+Niet door zwaard.  
+Niet door bloed.  
+Maar door **wil**.
+
+### **I. Over de Oorzaak van de Onrust**
+
+De geschiedschrijvers van Brussel hebben lang volgehouden dat de onrust in Brugge het werk was van agitatoren, vreemdelingen en oproerkraaiers.  
+Doch wie de stad kende, wie haar stenen had aangeraakt en haar water had horen fluisteren, wist beter.
+
+De oorzaak lag niet buiten Brugge.  
+Ze lag **in Brugge**.
+
+In de mensen die te lang hadden gezwegen.  
+In de straten die te lang hadden geluisterd.  
+In de reien die te lang hadden gewacht.
+
+### **II. Over de Burgemeester die Geen Burgemeester Was**
+
+Joseph van Severen, die door Brussel werd afgezet en door Brugge werd verkozen, is in de kronieken geen held, maar een **symbool**.  
+Niet van macht.  
+Maar van aanwezigheid.
+
+Hij leidde niet door bevel.  
+Hij leidde door te staan waar Brugge stond.
+
+En Brugge stond.
+
+### **III. Over de Commissaris die Luisteren Leerde**
+
+De Commissaris, wiens naam in sommige documenten is doorgestreept en in andere met tegenzin vermeld, verdient een plaats in deze kroniek.  
+Niet omdat hij macht had.  
+Maar omdat hij haar liet varen.
+
+Hij was de eerste vertegenwoordiger van Brussel die begreep dat Brugge niet gebroken kon worden door bevelen, noch geleid door dreiging.
+
+Hij zag — en dat is zeldzamer dan men denkt.
+
+### **IV. Over de Contesse en Haar Schaduw**
+
+De Contesse, wier invloed ooit reikte tot in de salons van Brussel en de gangen van het stadhuis, wierp in die dagen haar laatste schaduw over de stad.  
+Maar Brugge, dat eeuwenlang had geleefd onder schaduwen van macht, weigerde deze nog langer te dragen.
+
+Haar naam wordt in de kronieken vermeld met respect voor haar vastberadenheid, maar zonder bewondering voor haar daden.
+
+### **V. Over de Stad die Zichzelf Benoemde**
+
+Het meest opmerkelijke feit van dat jaar is niet de weigering van de soldaten, noch de scheuring van de pamfletten, noch het zwijgen van Brussel.
+
+Het meest opmerkelijke feit is dat Brugge zichzelf benoemde.
+
+Niet tot republiek.  
+Niet tot opstand.  
+Maar tot **Brugge**.
+
+En dat was genoeg.
+
+### **VI. Over de Nacht van de Keuze**
+
+De Nacht van de Keuze, waarin de mensen op de Markt stonden en zeiden: *“Wij zijn Brugge,”* wordt door sommige kroniekschrijvers beschouwd als het ware einde van de onrust.
+
+Want een stad die zichzelf uitspreekt, kan niet meer worden verdraaid.  
+Een volk dat zichzelf hoort, kan niet meer worden misleid.
+
+### **VII. Over de Ochtend die Volgde**
+
+De Ochtend van Brugge, zoals hij later genoemd werd, bracht geen triomf, geen feest, geen vlaggen.  
+Hij bracht rust.
+
+En rust is het hoogste teken van overwinning.
+
+### **VIII. Over de Betekenis van Deze Gebeurtenissen**
+
+Wat in 1830 in Brugge gebeurde, was geen revolutie.  
+Het was geen rebellie.  
+Het was geen staatsgreep.
+
+Het was een **herinnering**.
+
+Een herinnering dat steden, net als mensen, een ziel hebben.  
+En dat die ziel soms wakker wordt.
+
+### **IX. Slotwoord van de Kroniekschrijver**
+
+Moge wie deze kroniek leest begrijpen dat Brugge niet vocht om te winnen, maar om te **zijn**.  
+En dat een stad die zichzelf vindt, sterker is dan een rijk dat haar wil bezitten.
+
+Want Brugge, dat oude, stille, trotse Brugge, heeft in dat jaar niet de wereld veranderd.
+
+Ze heeft zichzelf hersteld.
+
+En dat is, in de ogen van de geschiedenis, een grotere daad dan menig veldslag.
+
+---
+
+Als je wil, kan ik ook:
+
+- een **korte epiloog** schrijven vanuit Joseph zelf  
+- een **laatste brief** van de Commissaris  
+- een **getuigenis** van de visverkoopster jaren later  
+- of een **muzikale nasleep** vanuit Rossini’s perspectief  
+
+Je kiest zelf hoe je dit universum verder laat ademen.
