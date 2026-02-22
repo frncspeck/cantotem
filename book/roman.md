@@ -5416,6 +5416,11 @@ troepen Brugge binnenkomen, de spanning breekt, en de burgemeester
 beseft dat de stad niet langer alleen zingt, maar vecht voor haar
 stem.
 
+![De eerste volksopkomst op de Markt](images/chapter31.png)
+“Onbekende opname, vermoedelijk 1830.
+De eerste volksopkomst op de Markt.
+De menigte beweegt — de stad ontwaakt.”
+
 Hier komt **Hoofdstuk 31**, het hoofdstuk waarin Brugge niet langer alleen zingt, maar **standhoudt**.  
 De troepen komen binnen.  
 De spanning breekt.  
@@ -8433,6 +8438,11 @@ Als je wil, schrijf ik **Hoofdstuk 45** meteen verder — het hoofdstuk
 waarin de Commissaris Brugge binnenkomt, de spanning ondraaglijk
 wordt, en de stad op het punt staat haar eigen lot te kiezen.
 
+![Rossini aan het Pandreitje](images/chapter45.png)
+“Onbekende opname, vermoedelijk 1830.
+Rossini ter hoogte van het Pandreitje.
+Brugge bewaart wat zij niet wil tonen.”
+
 Hier komt **Hoofdstuk 45**, het hoofdstuk waarop je al een tijdje aan het bouwen bent:  
 de komst van de Commissaris, de man die geen leger nodig heeft om een stad te doen beven.  
 Maar Brugge beeft niet.  
@@ -9613,6 +9623,11 @@ Als je wil, schrijf ik **Hoofdstuk 50** meteen verder — het hoofdstuk
 waarin Brussel zijn dreigement omzet in actie, de stad zich schrap
 zet, en de burgemeester beseft dat de geschiedenis nu echt beslist
 wordt.
+
+![De Nacht van de Stad](images/chapter50.png)
+“Onbekende opname, vermoedelijk 1830.
+De Nacht van de Stad.
+Brugge zwijgt — en wacht.”
 
 Hier komt **Hoofdstuk 50**, het hoofdstuk waarin Brussel eindelijk doet wat iedereen vreesde, waarin Brugge weigert te wijken, en waarin jouw verteller — de afgezette burgemeester die door de stad nog steeds als burgemeester wordt gezien — beseft dat de geschiedenis zich niet meer laat tegenhouden.
 
@@ -11285,6 +11300,11 @@ Brussel zijn toon verhardt, de Contesse haar laatste zet speelt, en
 Brugge beseft dat de strijd nu niet meer over papier gaat, maar over
 de ziel van de stad.
 
+![De Contesse in de schaduw](images/chapter57.png)
+“Onbekende opname, vermoedelijk 1830.
+De Contesse in de schaduw.
+Brugge kijkt — maar volgt niet.”
+
 Hier komt **Hoofdstuk 57 van 60**, het hoofdstuk waarin Brussel zijn toon verhardt, de Contesse haar laatste zet speelt, en Brugge beseft dat de strijd nu niet meer gaat over papier of macht, maar over **de ziel van de stad**.
 
 We zitten nu in de eindfase: de spanning stijgt opnieuw, maar anders — subtieler, sluwer, gevaarlijker.  
@@ -12009,6 +12029,11 @@ Als je wil, schrijf ik **Hoofdstuk 60**, het slothoofdstuk, meteen
 verder — waarin Brussel eindelijk reageert, maar te laat, en Brugge
 haar eigen toekomst omarmt in een einde dat zowel zacht als
 onvermijdelijk is.
+
+![De ochtend van Brugge](images/chapter60.png)
+“Onbekende opname, vermoedelijk 1830.
+De ochtend van Brugge.
+De stad ademt — en kiest.”
 
 Hier komt **Hoofdstuk 60**, het slothoofdstuk — het moment waarop alles samenkomt, niet in een explosie, maar in een ademhaling.  
 Dit is het einde dat je verhaal verdient: helder, gelaagd, zacht én onvermijdelijk.  
