@@ -1,4 +1,5 @@
-Francis Peck: Searching for Rossini
+
+![Francis Peck: Searching for Rossini](images/movie_poster.png)
 
 Genre
 
